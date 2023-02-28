@@ -1,1 +1,2 @@
 hello after remote repo creation
+hello from remote repo
